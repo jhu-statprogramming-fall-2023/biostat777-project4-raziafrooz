@@ -1,0 +1,13 @@
+name: projet4
+title: projet4
+username: raziafrooz
+account: raziafrooz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10837276
+bundleId: 8076840
+url: https://raziafrooz.shinyapps.io/projet4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: video.mp4
